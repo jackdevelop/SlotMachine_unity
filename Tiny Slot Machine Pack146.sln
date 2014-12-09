@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EE0A11EF-7F6C-A650-2BF4-980AF1977F1E}") = "Tiny Slot Machine Pack146", "Assembly-CSharp.csproj", "{B8883611-308A-DED4-CF54-94BB04CC87CC}"
+EndProject
+Project("{EE0A11EF-7F6C-A650-2BF4-980AF1977F1E}") = "Tiny Slot Machine Pack146", "Assembly-CSharp-Editor.csproj", "{0CD23BEF-C024-5F63-58D4-2AB6C26DAF4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8883611-308A-DED4-CF54-94BB04CC87CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8883611-308A-DED4-CF54-94BB04CC87CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8883611-308A-DED4-CF54-94BB04CC87CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8883611-308A-DED4-CF54-94BB04CC87CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD23BEF-C024-5F63-58D4-2AB6C26DAF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD23BEF-C024-5F63-58D4-2AB6C26DAF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD23BEF-C024-5F63-58D4-2AB6C26DAF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD23BEF-C024-5F63-58D4-2AB6C26DAF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+									GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
